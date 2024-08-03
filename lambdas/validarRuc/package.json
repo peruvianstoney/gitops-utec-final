@@ -1,0 +1,18 @@
+{
+  "name": "validarruc",
+  "version": "1.0.0",
+  "description": "Para crear un rol de ejecución para las funciones Lambda, necesitamos definir una política de confianza y luego crear el rol utilizando el AWS CLI.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1664.0"
+  }
+}
